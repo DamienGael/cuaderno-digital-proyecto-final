@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598465545856",
+    "project_id": "mi-cuaderno-digital-dart",
+    "storage_bucket": "mi-cuaderno-digital-dart.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598465545856:android:26e3c0728543d020300865",
+        "android_client_info": {
+          "package_name": "com.example.mi_cuaderno_digital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkdBo2YMH8XisxV2anCfCmBDnxuqj_t6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
